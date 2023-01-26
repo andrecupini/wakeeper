@@ -1,5 +1,0 @@
-C:\Users\andre\OneDrive\Área de Trabalho\wakeeper\wakeeper.pdb
-C:\Users\andre\OneDrive\Área de Trabalho\wakeeper\icons\clock.ico
-C:\Users\andre\OneDrive\Área de Trabalho\wakeeper\icons\config.ico
-C:\Users\andre\OneDrive\Área de Trabalho\wakeeper\icons\red-clock.ico
-C:\Users\andre\OneDrive\Área de Trabalho\wakeeper\wakeeper.exe
