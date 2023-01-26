@@ -6,7 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>icons\clock.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icons\clock.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="YamlDotNet.NetCore" Version="1.0.0" />
