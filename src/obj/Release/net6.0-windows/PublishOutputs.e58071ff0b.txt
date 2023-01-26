@@ -1,0 +1,9 @@
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\icons\clock.ico
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\icons\config.ico
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\icons\red-clock.ico
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\wakeeper.exe
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\wakeeper.dll
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\wakeeper.deps.json
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\wakeeper.runtimeconfig.json
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\wakeeper.pdb
+C:\Users\andre\projects\wakeeper\bin\Release\net6.0-windows\publish\YamlDotNet.NetCore.dll

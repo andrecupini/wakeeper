@@ -1,0 +1,5 @@
+C:\Users\andre\projects\wakeeper\bin\wakeeper.pdb
+C:\Users\andre\projects\wakeeper\bin\icons\clock.ico
+C:\Users\andre\projects\wakeeper\bin\icons\config.ico
+C:\Users\andre\projects\wakeeper\bin\icons\red-clock.ico
+C:\Users\andre\projects\wakeeper\bin\wakeeper.exe

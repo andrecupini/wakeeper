@@ -1,0 +1,5 @@
+C:\publish\wakeeper.pdb
+C:\publish\icons\clock.ico
+C:\publish\icons\config.ico
+C:\publish\icons\red-clock.ico
+C:\publish\wakeeper.exe
